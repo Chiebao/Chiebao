@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Luana and I'm a ADS, from Brazil, Sorocaba-SP</h2>
+<h2 align="left">Analise de Desenvolvimento de Sistemas, Sorocaba-SP</h2>
 
 ###
 
