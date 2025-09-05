@@ -7,12 +7,16 @@
   <strong>Análise de Desenvolvimento de Sistemas</strong> pela Cruzeiro do Sul 'UNICID'. 
   <br>
   <br>
-  Posso dizer que foi paixão a primeira vista! Compartilho meu conhecimento através do meu perfil no Tik Tok 
-  <a href="https://www.tiktok.com/@dev_luana?_t=ZM-8yok9a7nLgG&_r=1" style="text-decoration: none; color: pink;">
-    Dev Luana
-  </a> 
-  e posteriormente estarei fazendo meu Canal do YouTube para compartilhar de forma mais dinâmica e prática os conhecimentos que adquiro ao longo do meu caminho como ADS.
-</p>
+  <p>
+Python, tenho dominio de funções, variáveis, logica de programação, manipulação avançada de listas e strings, compreensão de listas e dicionários, leitura e escrita de arquivos e automação básica.
+
+SQL, trabalho com conceitos de banco de dados, criação de tabelas, inserção, atualização e exclusão de dados, consultas simples (SELECT) e intermediárias.
+
+HTML básico e intermediário, incluindo estrutura de páginas, elementos, atributos, links, imagens, formulários, semântica HTML5, multimídia e navegação. Em CSS, aplico seletores básicos, box model, margens, padding, Flexbox, Grid, pseudo-classes e pseudo-elementos, transições e responsividade. Já em JavaScript, domino variáveis, operadores, condicionais, loops, funções simples, manipulação de arrays e objetos e eventos básicos (onclick, onchange).
+
+Busco evoluir para nível intermediário/avançado em Python, SQL e desenvolvimento web, criando soluções escaláveis, eficientes e profissionais. Tenho perfil proativo, analítico e orientado a resultados, com facilidade para aprender novas tecnologias e implementar soluções aplicáveis ao mercado de TI.
+    
+  </p>
 
 ###
 
