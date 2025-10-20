@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am 23 years old and I'm from Sorocaba, São Paulo. I am currently pursuing my second undergraduate degree in the technology field, studying Systems Analysis and Development at Cruzeiro do Sul University (UNICID)</p>
+<p align="left">I am 23 years old, I'm from Sorocaba- São Paulo. I am currently pursuing my second undergraduate degree in the technology field, studying Systems Analysis and Development at Cruzeiro do Sul University (UNICID)</p>
 
 ###
 
